@@ -1,5 +1,5 @@
 ---
-title: Atlas §
+title: Atlas
 notetype : feed
 date : 05-01-2022
 ---
