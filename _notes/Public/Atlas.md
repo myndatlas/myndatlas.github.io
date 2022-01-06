@@ -4,7 +4,7 @@ notetype : feed
 date : 05-01-2022
 ---
 
-If you aren't sure what this is or how you got here, check out [[Welcome to the MyndAtlas Project]].
+If you aren't sure what this is or how you got here, check out [[Welcome to The MyndAtlas Project]].
 
 In my note-system, this is the central page that everything links back to. Some might call it an index. If the rest of the notes are branches, this note is the one they all branch from.
 
@@ -16,4 +16,4 @@ Currently there are three groups of notes, divided for ease of finding where I w
 2. Bibliography and Miscellany - these are more reference related or general information capture... 
 3. "Maps of Content" - though I'm not sure how similar these are to others who use this term.
 
-More pages and links to come.
+Links, pages, and much more info is coming.
