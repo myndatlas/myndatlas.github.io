@@ -4,7 +4,6 @@ notetype : feed
 date : 05-01-2022
 ---
 
-# Atlas
 
 If you haven't seen it yet, please check out [[Welcome to the MyndAtlas Project]].
 
