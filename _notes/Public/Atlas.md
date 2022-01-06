@@ -16,4 +16,4 @@ Currently there are three groups of notes, divided for ease of finding where I w
 2. Bibliography and Miscellany - these are more reference related or general information capture... 
 3. "Maps of Content" - though I'm not sure how similar these are to others who use this term.
 
-More pages and links to come.
+Links, pages, and much more info is coming.
