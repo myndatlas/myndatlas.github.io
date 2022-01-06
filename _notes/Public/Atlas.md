@@ -4,10 +4,9 @@ notetype : feed
 date : 05-01-2022
 ---
 
+If you aren't sure what this is or how you got here, check out [[Welcome to the MyndAtlas Project]].
 
-If you haven't seen it yet, please check out [[Welcome to the MyndAtlas Project]].
-
-This is the central page that everything links back to. Some might call it an index. If the rest of the notes are branches, this note is the one they all branch from.
+In my note-system, this is the central page that everything links back to. Some might call it an index. If the rest of the notes are branches, this note is the one they all branch from.
 
 Thus: everything can be accessed following links from this note, depending on the path taken.
 
