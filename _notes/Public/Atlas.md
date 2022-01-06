@@ -1,6 +1,6 @@
 ---
 title: Atlas
-notetype : feed
+notetype : unfeed
 date : 05-01-2022
 ---
 
