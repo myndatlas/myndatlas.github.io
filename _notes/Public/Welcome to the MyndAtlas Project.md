@@ -14,4 +14,4 @@ To add:
 
 Feel free to jump in to the [[Atlas]] and see where the notes take you.
 
-Or if you're curious about what's new, see the <a href="../notes> notes feed </a>
+Or if you're curious about what's new, see the <a href="../notes"> notes feed </a>
