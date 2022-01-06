@@ -9,8 +9,8 @@ At the time of writing, in the early days of 2022, I've been working with some v
 Although this is written somewhat in the style of a manual or a guide, the primary aim is to be useful to the stranger that is my future self; while I hope it may be useful to other strangers (or friends!), that is not the aim of this project, at least not yet.
 
 To add:
-More about how I got started and how things evolved.
-More about the tools and how to get set up
+- More about how I got started and how things evolved.
+- More about the tools and how to get set up
 
 Feel free to jump in to the [[Atlas]] and see where the notes take you.
 
