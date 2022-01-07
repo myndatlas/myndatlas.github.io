@@ -16,11 +16,10 @@ There are two main groups of notes linked here, plus a third "group" of naviatio
 
 1. Dashboard links or an easy way to get to them
 	- As of the time of writing, these are on the [[ScratchBox]] page, which is easily accessed by the linked near the top of this note. The [[ScratchBox]] is also my homepage at the moment, which keeps these easily accessible. 
-2. Planner, Bibliography, Miscellany and Template list - notes which in some sense fall "outside" the main body of the note-system (or outside the zettelkasten/evergreen notes for those familiar with those terms.)
+2. Planner, Bibliography, and Miscellany - notes which in some sense fall "outside" the core interlinked-knowledge-work "body of notes", for lack of better terms. Or outside the zettelkasten/evergreen notes for those familiar with those.
 	- [[Planner]]
 	- [[Bibliography]]
 	- [[Miscellany]]
-
 3. "Maps of Content" - though I'm not sure how similar these are to others who use this term. I am experimenting with these as I get better at wrangling my notes, but two slices I'm currently working with are organised around "Area of Interest" and "Projects".
 
 [^1]: [Luhmann's Zettelkasten - Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
