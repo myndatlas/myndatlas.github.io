@@ -3,10 +3,10 @@ title: Atlas
 notetype : feed
 date : 05-01-2022
 ---
-Note: If you aren't sure what this is or how you got here, check out [[Welcome to The MyndAtlas Project]].
-
 [[ScratchBox]] #atlas 
 # Atlas
+
+Note: If you aren't sure what this is or how you got here, check out [[Welcome to The MyndAtlas Project]].
 
 In my note-system, this is the central page that everything links back to. Some might call it an index (especially if they've been reading about zettlekasten[^1]). If the rest of the notes are branches, this note is the one they all branch from.
 
