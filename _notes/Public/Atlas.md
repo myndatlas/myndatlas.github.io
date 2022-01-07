@@ -1,7 +1,7 @@
 ---
 title: Atlas
 notetype : feed
-date : 05-01-2022
+date : 06-01-2022
 ---
 [[ScratchBox]] #atlas 
 # Atlas
@@ -20,7 +20,7 @@ There are two main groups of notes linked here, plus a third "group" of naviatio
 	- [[Planner]]
 	- [[Bibliography]]
 	- [[Miscellany]]
-	- [[Template List]] - I keep thinking this goes somewhere else, but I don't know where yet.
+
 3. "Maps of Content" - though I'm not sure how similar these are to others who use this term. I am experimenting with these as I get better at wrangling my notes, but two slices I'm currently working with are organised around "Area of Interest" and "Projects".
 
 [^1]: [Luhmann's Zettelkasten - Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)
