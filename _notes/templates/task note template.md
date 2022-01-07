@@ -1,8 +1,9 @@
 ---
-parent: [[ScratchBox §]]
-mnt: tasknote
+title: [[title]]
+notetype: feed
+date: 07-01-2002
 ---
-(uplink:: [[ScratchBox §]]) #atlas/tasknote 
+[[ScratchBox]] #atlas/tasknote 
 
 #  Tasks
 
