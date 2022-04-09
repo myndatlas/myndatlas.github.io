@@ -1,16 +1,12 @@
 ---
 title : Welcome to The MyndAtlas Project
 notetype : feed
-date : 04-01-2022
+date : 07-03-2022
 ---
+# Welcome to the MyndAtlas Project
 
-At the time of writing, in the early days of 2022, I've been working with some version of my note-system for over a year. It has gone through a number of iterations and periods of growth, stagnation, and overhaul. It's still very much a work in progress, but if I needed to start again, there are some things I'd like to know. I am attempting to gather those things here.
+The MyndAtlas Project is an attempt to gather some thoughts and document some process and other information about developing my note-system and my current way of working with it. Although over time I hope it may be useful to others, the focus in the short term is to document the things that I would have found useful to know earlier on, and to mark a trail for myself if I needed to start again.
 
-Although this is written somewhat in the style of a manual or a guide, the primary aim is to be useful to the stranger that is my future self; while I hope it may be useful to other strangers (or friends!), that is not the aim of this project, at least, not yet.
+Even after more than a year of working with my note-system, things remain very much in flux, especially as I discover new ways to make use of the many available tools. Some of what's here is very specific to my use case, though it's also clear that there are a number of similarities with what I'm doing here to what others are doing with similar note-systems and related personal knowledge management (PKM) work.
 
-To add:
-- More about how I got started and how things evolved.
-- More about the tools and how to get set up
-- What the idea of a note-system is and who my major influences are
-
-Feel free to head over to the [[Atlas]] and see where the notes take you, jump in to the [[ScratchBox]] to get started the way I most often do, or if you're curious about what's new/recently uodated, see the <a href="../notes">notes feed</a>.
+Head over to the [[Atlas]] to see a bit about how I organise and structure my note-system, have a look at [[Setting up a MyndAtlas]] for notes on my current set-up or [[How I got here]] if you're interested in that. You can also check the <a href="../notes">notes feed</a> to see what's recently been added or updated.

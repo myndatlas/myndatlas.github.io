@@ -3,7 +3,7 @@ title : Bibliography
 notetype : feed
 date : 06-01-2022
 ---
-[[Atlas]] #atlas  #bibliography 
+[[Atlas]]
 # Bibliography
 
 This note contains a number of dataview lists to notes about my sources which I endeavour to credit correctly. 
