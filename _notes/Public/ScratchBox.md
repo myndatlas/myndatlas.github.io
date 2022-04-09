@@ -3,8 +3,6 @@ title : ScratchBox
 notetype : feed
 date : 07-03-2022
 ---
-[[Atlas]]
-
 # ScratchBox
 
 The ScratchBox idea has evolved as something of an "inbox" for keeping track of tasks and items in progress in some way. For the most part, notes in the Scratchbox are here temporarily and the idea is to move notes out of here as soon as possible (and not sooner)---to make progress on them until they move somewhere else or are no longer relevant.

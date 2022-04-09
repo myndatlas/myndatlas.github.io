@@ -5,6 +5,7 @@ pages/.DS_Store
 pages/tags.md
 /.obsidian.ipad/*
 /_notes/templates/*
+/_notes/Tasks
 
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
 .obsidian/

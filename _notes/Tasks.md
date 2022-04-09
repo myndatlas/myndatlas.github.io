@@ -31,5 +31,10 @@ To add:
 - What the idea of a note-system is and who my major influences are
 
 ---
+### To fix double titles:
 cut:  <h1>{{page.title}}</h1>
 from line 113 in Layouts/Post
+
+---
+### Cut from [[How I got here]]
+I started using Bear's facility to wikilink headings as a way of transcluding pieces of one note into another and leaned on tags for a bit too many purposes. As the note-system grew, things were getting unwieldy; each added note felt like I was adding to the chaos that I simply couldn't wrangle the way I wanted to. Even though I could have two instances open using the iPad's Split view, I seldom felt like I could see enough at once, which added to the chaost
