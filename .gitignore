@@ -1,8 +1,19 @@
+
 _site
 .jekyll-cache
 pages/.DS_Store
 pages/tags.md
 /.obsidian.ipad/*
-/.obsidian/*
-/_notes/Tasks to do.md
 /_notes/templates/*
+
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
+# OR only to exclude workspace cache
+.obsidian/workspaces.json
+.obsidian/workspace
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
