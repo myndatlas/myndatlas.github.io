@@ -3,7 +3,7 @@ The MyndAtlas Project a Github Pages site using [Jekyll Garden theme](https://gi
 
 
 ## Credits & Thanks
-- The creators of and contributors to the [Jekyll Garden theme](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
+- [Hiran Venugopalan](https://github.com/hfactor) who created the the [Jekyll Garden theme](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
 - [rgvr](https://github.com/rgvr), who created [Simply Jekyll theme](https://github.com/rgvr/simply-jekyll). This theme is a fork of Simply Jekyll and 90% code is by Raghu.
 - Team [Obsidian](https://obsidian.md/)
 - Dark Mode Switch by [Derek Kedziora](https://github.com/derekkedziora) - [Source link](https://github.com/derekkedziora/jekyll-demo/blob/master/scripts/mode-switcher.js)
