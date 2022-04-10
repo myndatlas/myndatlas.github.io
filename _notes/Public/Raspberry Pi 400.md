@@ -25,20 +25,26 @@ Note: I am very much a novice with these things and stumbled my way though this 
 - To add Obsidian to the Menu, go to Menu>Preferences>Main Menu Editor. I selected the Office category and clicked New Item, then named it Obsidian and browsed for the AppImage (now in `~/opt`), and added an icon I'd downloaded from the internet. [^2] This is optional, though I find it handy to have Obsidian in the Main Menu and this is the first step in easiest way I could find to get the AppImage to autostart.
 - To create a desktop file (needed for the next step), simply open the Main Menu and drag the Obsidian menu item out to the desktop. This creates a .desktop file, which you may wish to rename since for whatever reason it isn't automatically named Obsidian.desktop. [^3]
 - In the terminal, make a folder called autostart in the ~/.config folder. I navigated to the config folder `cd ~/.config` and then made the folder `mkdir autostart`
-- Then copy the .desktop file into the autostart folder. I navigated back to the Desktop folder (`cd ~/Desktop`)  and copied the Obsidian desktop file to the autostart folder with `cp Obsidian.desktop ~/.config/autostart`.  After doing this, Obsidian will now launch when the Raspberry Pi boots. (I usually have three windows open with different vaults, all three open on boot if they were open at shutdown.)
+- Then copy the .desktop file into the autostart folder. I navigated back to the Desktop folder (`cd ~/Desktop`)  and copied the Obsidian desktop file to the autostart folder with `cp Obsidian.desktop ~/.config/autostart`.  After doing this, Obsidian will now launch when the Raspberry Pi boots. [^4] (I usually have three windows open with different vaults, all three open on boot if they were open at shutdown.)
 
-### Headless
+#### Headless
 - In order to run the Raspberry Pi headlessly, some settings need to be adjusted. Go to Main Menu>Preferences>Raspberry Pi Configuration.
 - Under Display, set the preferred headless resolution, this will tell the Raspberry Pi to boot up fully including the gui desktop without a monitor connected.
-- Under Interfaces, turn on VNC and SSH in order to enable remote access to the machine. (This is probably not strictly necessary, but it's certainly helpful to check that things are working as intended and make adjustments where required.)
-- 
+- Under Interfaces, turn on VNC and SSH in order to enable remote access to the machine. (This is probably not strictly necessary, but it's certainly helpful to check that things are working as intended and make adjustments where required.) A reboot will be required.
+- Once SSH is enabled, I have terminal access from my Mac [^5] and iPad app called Terminal & SSH.
+- For remote access to the desktop, right click on the VNC icon, which is in the top right, near the bluetooth, wifi and volume icons.
+	- Select options
+	- Change Authentication to VNC password
+	- Go to Users & Permissions and set a password
+	- Use these credentials from VNC Viewer on another device, or on an iOS App like Screens.
 
-(using Obsidian Sync, which I find well worth paying for) and keeping the github repositories up to date (via the Obsidian Git plugin).
+#### Obsidian Sync
 
-Some additional setup is needed both through github and locally before Obsidian Git can take over, but it wasn't too difficult even with my very limited knowledge. (More on this to come.)
+#### Obsidian Git
 
-I have SSH access from the iPad though an app called Terminal and SSH and remote GUI acces though an app callled Screens. Neither are of all that much use now, since it doesn't work headlessly and is usually within reach.
-
+---
 [^1]: https://docs.appimage.org/introduction/quickstart.html
 [^2]: https://raspberrytips.com/desktop-shortcuts-on-raspberry-pi/, under heading "Add it to the Main Menu"
 [^3]: https://raspberrytips.com/desktop-shortcuts-on-raspberry-pi/
+[^4]: https://elementaryos.stackexchange.com/questions/10949/run-appimage-on-startup
+[^5]: https://medium.com/@thedyslexiccoder/how-to-remotely-access-a-raspberry-pi-on-a-mac-via-ssh-be285d418f54
