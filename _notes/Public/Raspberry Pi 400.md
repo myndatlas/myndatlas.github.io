@@ -38,10 +38,6 @@ Note: I am very much a novice with these things and stumbled my way though this 
 	- Go to Users & Permissions and set a password
 	- Use these credentials from VNC Viewer on another device, or on an iOS App like Screens.
 
-#### Obsidian Sync
-
-#### Obsidian Git
-
 ---
 [^1]: https://docs.appimage.org/introduction/quickstart.html
 [^2]: https://raspberrytips.com/desktop-shortcuts-on-raspberry-pi/, under heading "Add it to the Main Menu"
