@@ -1,17 +1,27 @@
 ---
 title: Raspberry Pi 400
 notetype : feed
-date : 07-03-2022
+date : 10-04-2022
 ---
 # Raspberry Pi 400
 
-After a couple of attempts, I have been able to make my Raspberry Pi 400 the headless, always-on machine running Obsidian and backing up to github that I intended it to be, currently running the 64-bit Raspberry Pi OS and Obsidian via the ARM64 AppImage available from the [Obsidian download page](https://obsidian.md/download).
+After a couple of attempts, I have been able to make my Raspberry Pi 400 the headless, always-on machine running Obsidian and backing up to github that I intended it to be, currently running the 64-bit Raspberry Pi OS and Obsidian via the ARM64 AppImage, automatically starts at boot.
+
+Still to do: set up automatic backups to an additional drive.
+
+Note: I am very much a novice with these things and stumbled my way though this in spite of most of it being over my head. It may seem like a lot, but with some patience and a willingness to reimage and start again, I think anyone can do it.
 
 ---
 ### How I set up my Raspberry Pi 400
+#### 64-bit Raspberry Pi OS, booting from SSD
 - For Obsidian to work, a 64-bit version of the OS is necessary. I imaged my USB SSD with the full 64-bit Raspberry Pi OS via the [Raspberry Pi Imager](https://www.raspberrypi.com/news/raspberry-pi-imager-imaging-utility/).
-- The Raspberry Pi 400 (and the 4 also, I believe) automatically boots from the external drive when no SD card is present. As I understand it, early models can be configured to boot from USB as well. I chose to get an SSD both for reasons of speed and because as I understand it, the kind of incremental and random read/write activity I'm doing with Obsidian has a high liklihood of chewing through SD cards.
-- Download the ARM64 AppImage from the [Obsidian download page](https://obsidian.md/download).
+- The Raspberry Pi 400 automatically boots from the external drive when no SD card is present. I believe this is also true of the Raspberry Pi 4, and some earlier models can be configured to boot from USB as well. I chose to get an SSD both for reasons of speed and longevity since the kind of incremental and random read/write activity I'm doing with Obsidian has a high liklihood of chewing through SD cards.
+#### Obsidian AppImage and Autostart
+- After completing the basic setup on Raspberry Pi OS, download the ARM64 AppImage from the [Obsidian download page](https://obsidian.md/download).
+- Make the AppImage executable, either from the interface by right clicking and adjusting the permissions or running `chmod +x my.AppImage` from the terminal. [^1] It worked best for me when I did this while the AppImage was still in the downloads folder.
+- After verifying that it runs, I copied the AppImage to a permanent location - I chose the `opt` folder. You can also rename the AppImage, as I did for simplicity. I moved the AppImage in terminal with `sudo cp Obsidian.AppImage /opt` .  I don't think there would be any issue with running it from Downloads indefinitely but I preferred not to.
+- To add Obsidian to the Menu, go to Menu>Preferences>Main Menu Editor. I selected the Office category and clicked New Item, then named it Obsidian and browsed for the AppImage (now in `/opt`), and added an icon I'd downloaded from the internet. [^2] This is optional, though I find it handy to have Obsidian in the Main Menu and this is the first step in easiest way I could find to get the AppImage to autostart.
+- To create a desktop file (needed for the next step), simply open the Main Menu and drag the Obsidian menu item out to the desktop. This creates a .desktop file, which you may wish to rename since for whatever reason it isn't automatically named Obsidian.desktop. [^3]
 - 
 
 
@@ -20,3 +30,7 @@ After a couple of attempts, I have been able to make my Raspberry Pi 400 the hea
 Some additional setup is needed both through github and locally before Obsidian Git can take over, but it wasn't too difficult even with my very limited knowledge. (More on this to come.)
 
 I have SSH access from the iPad though an app called Terminal and SSH and remote GUI acces though an app callled Screens. Neither are of all that much use now, since it doesn't work headlessly and is usually within reach.
+
+[^1]: https://docs.appimage.org/introduction/quickstart.html
+[^2]: https://raspberrytips.com/desktop-shortcuts-on-raspberry-pi/, under heading "Add it to the Main Menu"
+[^3]: https://raspberrytips.com/desktop-shortcuts-on-raspberry-pi/
