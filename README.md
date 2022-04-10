@@ -1,5 +1,5 @@
 # The MyndAtlas Project
-The MyndAtlas Project a Github Pages site using [Jekyll Garden theme](https://github.com/Jekyll-Garden/jekyll-garden.github.io)(see the demo [here](https://jekyll-garden.github.io/)) where I am documenting how I set up and am working with my note-system. It is very much a work in progress, but the process of thinking through and documenting what I'm doing is immensely useful for forcing me to clarify my thoughts and document them in a readable way.
+The MyndAtlas Project a Github Pages site using [Jekyll Garden theme](https://github.com/Jekyll-Garden/jekyll-garden.github.io) (see the demo [here](https://jekyll-garden.github.io/)) where I am documenting how I set up and am working with my note-system. It is very much a work in progress, but the process of thinking through and documenting what I'm doing is immensely useful for forcing me to clarify my thoughts and document them in a readable way.
 
 
 ## Credits & Thanks
