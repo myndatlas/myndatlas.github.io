@@ -1,5 +1,5 @@
 ---
-title : Welcome to The MyndAtlas Project
+title : "Welcome to The MyndAtlas Project"
 notetype : feed
 date : 07-03-2022
 ---
