@@ -30,7 +30,7 @@ Note: I am very much a novice with these things and stumbled my way though this 
 #### Headless
 - In order to run the Raspberry Pi headlessly, some settings need to be adjusted. Go to Main Menu>Preferences>Raspberry Pi Configuration.
 - Under Display, set the preferred headless resolution, this will tell the Raspberry Pi to boot up fully including the gui desktop without a monitor connected.
-- Under Interfaces, turn on VNC and SSH in order to enable remote access to the machine. (This is probably not strictly necessary, but it's certainly helpful to check that things are working as intended and make adjustments where required.) A reboot will be required.
+- Under Interfaces, turn on VNC and SSH in order to enable remote access to the machine. (This is probably not strictly necessary, but it's certainly helpful to check that things are working as intended and make adjustments as needed.) A reboot will be required.
 - Once SSH is enabled, I have terminal access from my Mac [^5] and iPad app called Terminal & SSH.
 - For remote access to the desktop, right click on the VNC icon, which is in the top right, near the bluetooth, wifi and volume icons.
 	- Select options
