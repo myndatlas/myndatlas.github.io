@@ -13,4 +13,6 @@ Midway through 2021, [Obsidian](https://obsidian.md/) released their mobile app 
 
 Although I've made a lot of headway, there continues to be a bit of chaos as I deveop better practices and learn more about the many options available in Obsidian. There's quite a lot to learn, but my note-system no longer feels quite so unwieldy and I can much more easily find what I need to and am slowly knocking it all into a more useful order.
 
-I primarily use iOS devices (iPhone and iPad) and am experimenting with an old Mac that I'm surprised hasn't died on me yet. I also have a [[Raspberry Pi 400]] that is always on and backing up to github.
+Recent influences that have helped immensely include [Eleanor Konik](https://www.eleanorkonik.com) and [Bryan Jenks](https://www.bryanjenks.dev).
+
+I primarily use iOS devices (iPhone and iPad) and am experimenting with an old Mac that I'm surprised hasn't died on me yet. I also have a [[Raspberry Pi 400]] that is always on for backups and syncing to github.
