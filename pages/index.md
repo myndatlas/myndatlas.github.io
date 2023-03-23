@@ -4,5 +4,5 @@
 
 layout: Post
 permalink: /
-title: MyndAtlas Project
+title: Jekyll Garden
 ---

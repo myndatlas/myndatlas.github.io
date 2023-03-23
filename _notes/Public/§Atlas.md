@@ -1,6 +1,7 @@
 ---
 title : §Atlas
 feed : show
+permalink : /atlas
 date : 21-03-2023
 ---
 # §Atlas
