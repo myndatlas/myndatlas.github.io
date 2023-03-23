@@ -12,6 +12,6 @@ There are some amazing tools out there. These are some that have been crucial to
 - [GitHub: Let’s build from here · GitHub](https://github.com)
 
 
-## How To Guides
+## "How To" Guides
 - [Jekyll Garden](https://jekyll-garden.github.io)
 
