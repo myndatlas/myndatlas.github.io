@@ -140,6 +140,9 @@
   },
   "active": "c80360ee2764f545",
   "lastOpenFiles": [
+    "_layouts/Stylesheet.html",
+    "_layouts/Post.html",
+    "_layouts",
     "pages/_layouts",
     "pages/posts.md",
     "pages/notes.md",
