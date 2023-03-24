@@ -1,10 +1,11 @@
 ---
 title : §ScratchPad
 feed : show
-date : 21-03-2023
+date : 24-03-2023
 ---
 up:: [[§ScratchBox]]
 # §ScratchPad
+- [ ] this actually became a bit of a working ScratchPad in an earier iteration. Need to move those things to where they belong.
 
 Like the [[Scratch Query Note]] and [[Scratch Dataview Note]], this note is permanently in the [[§ScratchBox]] though it's contents are transient. It is seldom completely empty, though the aim is to have it as empty as possible at all times and to move things from here to other notes or delete them when no longer needed.
 
@@ -16,7 +17,7 @@ I have only one of these notes, though I have experimented with more. My prefere
 
 ---
 ---
-### Cut from [[Welcome to the MyndAtlas Project]]:
+### Cut from [[Welcome to the MyndAtlas Project Website]]:
 
  [Obsidian](https://obsidian.md/) 
 

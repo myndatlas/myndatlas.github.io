@@ -1,7 +1,7 @@
 ---
 title : Scratch Dataview Note
 feed : show
-date : 22-03-2023
+date : 24-03-2023
 ---
 up:: [[§ScratchBox]]
 # Dataview ScratchNote
