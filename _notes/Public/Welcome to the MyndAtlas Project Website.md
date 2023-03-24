@@ -7,7 +7,7 @@ date : 21-03-2023
 [[⁋The MyndAtlas Project]]
 # Welcome to the MyndAtlas Project Website
 
-This website is part of a project ([[⁋The MyndAtlas Project]]) to document and explain my thinking about using a note system ([[✶Note-Systems]]) and create an explanatory example, of sorts. I am still working out how best to approach this piece of the puzzle with my current skill levels.
+This website is part of a project ([[⁋The MyndAtlas Project]]) to document and explain my thinking about using a note system ([[✶Note-Systems📒]]) and create an explanatory example, of sorts. I am still working out how best to approach this piece of the puzzle with my current skill levels.
 
 ---
 One of the nuances of my particular use-case[^1] is that I have periods where my brain doesn't really work. It's very frustrating and difficult to come back from. Although using a note-system doesn't eliminate these pain points, it does make it less painful, make setbacks less then they might be (I hope), to rediscover what I was doing when previously in the note-system. Certainly more is possible through this than any other tool.
