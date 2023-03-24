@@ -3,11 +3,11 @@ title : Markdown Rendered
 feed: show
 date : 01-02-2021
 ---
- 
-This page contains a quick reference to all markdown properties. 90% of this was part of the [Simple Jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme, which we forked to built this one. Great job, makers!
+# Markdown Rendered
 
-By the way, how did you reach this page?  
-From backlink under [[Hidden Note]] or from feed, along with [[Welcome to the MyndAtlas Project Website]]?
+This page contains a quick reference to all markdown properties. 90% (or so) of this was part of the [Simple Jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme, which was forked when creating [Jekyll Garden](https://jekyll-garden.github.io), and again when creating this site. 
+
+...
 
 * TOC
 {:toc}
