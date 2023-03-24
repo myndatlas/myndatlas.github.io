@@ -17,8 +17,9 @@ I continue to experiment with different ways to have notes branch of from here a
 		- The [[Scratch Dataview Note]].
 		- The [[Scratch Query Note]].
 
-
 <!--
 2. The rest are various groupings of other notes by interest or other grouping from which it makes sense to have them branch off from the Atlas note. These can fluctuate depending on what I'm using the most or current thoughts organisation.
 		- I call these notes [[AtlasNotes]]. In some cases they are very similar to [Nick Milo's "Maps Of Content"](https://notes.linkingyourthinking.com/Cards/MOCs+Overview) (I don't want to just start using his term without deeper consideration but I'm not sure my AtlasNotes aren't conceptually quite similar to Maps of Content at least in some ways.)
 -->
+
+
