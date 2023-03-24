@@ -4,7 +4,8 @@ feed : show
 permalink : /status
 date : 21-03-2023
 ---
-up:: [[⁋The MyndAtlas Project]], [[§Atlas]] #aoi/knowledge-work/note-systems
+up:: [[⁋The MyndAtlas Project]], [[§Atlas]]
+#aoi/knowledge-work/note-systems
 # State of the MyndAtlas Project
 After a failed experiment with an upgrade I discovered that I prefer where I've ended up with this website. That's the nature of it sometimes, I suppose.
 
