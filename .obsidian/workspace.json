@@ -11,12 +11,8 @@
             "id": "c80360ee2764f545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/Tools.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_notes/Public/Tools.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "c80360ee2764f545",
   "lastOpenFiles": [
+    "_notes/Public/Tools.md",
     "§ScratchPad.md",
     "How I got here.md",
     "Welcome to the MyndAtlas Project.md",
@@ -159,7 +152,6 @@
     "_notes/Public/§ScratchPad.md",
     "_notes/Public/§ScratchBox.md",
     "_notes/Public/§Atlas.md",
-    "_notes/Public/Tools.md",
     "_notes/Tools.md",
     "_notes/2023-03-23-tools.md",
     "§ScratchBox.md",
