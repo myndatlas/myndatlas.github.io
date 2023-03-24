@@ -1,13 +1,14 @@
 ---
 title : Markdown Rendered
 feed: show
-date : 01-02-2021
+date : 24-03-2023
 ---
 # Markdown Rendered
 
 This page contains a quick reference to all markdown properties. 90% (or so) of this was part of the [Simple Jekyll](https://github.com/raghuveerdotnet/simply-jekyll) theme, which was forked when creating [Jekyll Garden](https://jekyll-garden.github.io), and again when creating this site. 
 
-...
+
+## Example Markdown
 
 * TOC
 {:toc}
