@@ -4,13 +4,13 @@ feed : show
 permalink: /welcome
 date : 21-03-2023
 ---
-up:: [[§Notebooks📓]]
+[[⁋The MyndAtlas Project]]
 # Welcome to the MyndAtlas Project Website
 
-This website is part of a project ([[¶The MyndAtlas Project]]) to document and explain my thinking about using a note system ([[✶Note-Systems]]) and create an explanatory example, of sorts. I am still working out how best to approach this piece of the puzzle with my current skill levels.
+This website is part of a project ([[⁋The MyndAtlas Project]]) to document and explain my thinking about using a note system ([[✶Note-Systems]]) and create an explanatory example, of sorts. I am still working out how best to approach this piece of the puzzle with my current skill levels.
 
 ---
-One of the nuances of my particular use-case is that I have periods where my brain doesn't really work. It's very frustrating and difficult to come back from. Although using a note-system doesn't eliminate these pain points, it does make it less painful, make setbacks less then they might be (I hope), to rediscover what I was doing when previously in the note-system. Certainly more is possible through this than any other tool.
+One of the nuances of my particular use-case[^1] is that I have periods where my brain doesn't really work. It's very frustrating and difficult to come back from. Although using a note-system doesn't eliminate these pain points, it does make it less painful, make setbacks less then they might be (I hope), to rediscover what I was doing when previously in the note-system. Certainly more is possible through this than any other tool.
 
 ---
 Original text:
@@ -19,3 +19,5 @@ The MyndAtlas Project is collection of notes documenting current thoughts and  p
 Even after about two years years of working with my note-system, things remain very much in flux, especially as I discover new ways to make use of the many available tools. Some of what's here is very specific to my use case, though it's also clear that there are a number of similarities with what I'm doing here to what others are doing with similar note-systems and related personal knowledge management (PKM) work.
 
 Head over to the [[§Atlas]] to see a bit about how I organise and structure my note-system and enter the notes that way or have a look at [[State of the MyndAtlas Project]] for notes on the current status of the MyndAtlas Project. You can also check the <a href="{{'/notes' | relative_url}}">notes feed</a> to see what's recently been added or updated.
+
+[^1]: <a href="../post/about-me"> About Me </a>

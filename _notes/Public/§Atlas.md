@@ -28,14 +28,24 @@ Thus: everything in my note-system can be accessed following links from this not
 I continue to experiment with different ways to have notes branch of from here and how to group them, and so far usually have two to three groups of short lists of links.
 
 1. The first is a group of working notes that might be thought of as being permanently "in" the [[§ScratchBox]] - they have it as the uplink.
-		- The [[§ScratchPad]].
-		- The [[Scratch Dataview Note]].
-		- The [[Scratch Query Note]].
-		- The [[The Dashboard]]
+	- The [[§ScratchPad]].
+	- The [[Scratch Dataview Note]].
+	- The [[Scratch Query Note]].
+	- The [[The Dashboard]]
 
-2. A List of the rest of the notes at the "section" level that branch off from the Atlas. They have a `§` in the note title and [[§Atlas]] note as a parent.  I have called these both atlasNotes and sectionNotes at various points. 
+2. A List of the rest of the notes at the "section" level that branch off from the Atlas. They have a `§` in the note title and [[§Atlas]] note as a parent.  I have called these both atlasNotes and sectionNotes at various points. They could also be "super groups" or "Level 2" groups or something of that nature, as will soon be clearer.
+- [[]]
 
 <!--
 Something about [Nick Milo's "Maps Of Content"](https://notes.linkingyourthinking.com/Cards/MOCs+Overview) (I don't want to just start using his term without deeper consideration but I'm not sure my AtlasNotes aren't conceptually quite similar to Maps of Content at least in some ways.)
 -->
+
+## Group Chaos Table for §Atlas
+```dataview
+table
+  up
+from "noteBooks/myndatlas/website"
+where file.name != this.file.name
+sort up
+```
 

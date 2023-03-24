@@ -1,10 +1,11 @@
 ---
 title: Credits
 feed: hide
-date: 11-05-2022
+date: 24-03-2023
 permalink: /credits
 format: list
 ---
+up:: [[Tools]]
 # Credits
 The list is already long and getting longer. 
 Documentation of said list is coming.
