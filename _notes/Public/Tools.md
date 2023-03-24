@@ -2,7 +2,7 @@
 title : Tools
 feed: show
 permalink : /tools
-date : 23-03-2023
+date : 24-03-2023
 ---
 # Tools
 There are some amazing tools out there. These are some that have been crucial to this project:
