@@ -27,10 +27,10 @@ Thus: everything in my note-system can be accessed following links from this not
 I continue to experiment with different ways to have notes branch of from here and how to group them, and so far usually have two to three groups of short lists of links.
 
 1. The first is a group of working notes that might be thought of as being permanently "in" the [[ScratchBox]] - they have it as the uplink.
-		- The [[ScratchPad]].
-		- The [[Scratch Dataview Note]].
-		- The [[Scratch Query Note]].
-		- The [[The Dashboard]]
+- The [[ScratchPad]].
+- The [[Scratch Dataview Note]].
+- The [[Scratch Query Note]].
+- The [[The Dashboard]]
 
 2.
 
