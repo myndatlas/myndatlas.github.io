@@ -10,7 +10,6 @@ In my note-system, this is the central page that everything links back to. Some 
 
 Thus: everything in my note-system can be accessed following links from this note, via one or more paths through other notes.
 
----
 I continue to experiment with different ways to have notes branch of from here and how to group them.
 
 1. The first is a group of notes that are permanent "ScratchNotes" - notes that "in" the [[ScratchBox]] (have it as the uplink).
