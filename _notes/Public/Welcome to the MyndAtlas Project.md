@@ -4,6 +4,7 @@ feed : show
 permalink: /welcome
 date : 21-03-2023
 ---
+up:: [[§Notebooks📓]]
 # Welcome to the MyndAtlas Project
 
 This website is part of a project ([[¶The MyndAtlas Project]]) to document and explain my thinking about using a note system ([[✶Note-Systems]]) and create an explanatory example, of sorts. I am still working out how best to approach this piece of the puzzle with my current skill levels.
