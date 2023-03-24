@@ -4,7 +4,7 @@ feed : show
 date : 22-03-2023
 ---
 up:: [[ScratchBox]]
-# Scratch Dataview Note
+# Dataview ScratchNote
 - [ ] To do: create a correct link for Dataview to explain what I mean with all that.
 
 ---
