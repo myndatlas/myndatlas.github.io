@@ -5,11 +5,25 @@ date : 24-03-2023
 ---
 up:: [[★Knowledge Work]]
 # ✶Note-Systems
-- [ ] To Do: Make this work on the website. Sorry it's mostly broken links for now!
+> [!NOTE+] This is actively in progress
+> Expect some mess while a note is actively being worked on.
+
+## Group Chaos Table for ✶Note-Systems
+```dataview
+table
+  up
+from ""
+where file.name != this.file.name and (contains(up, this.file.link) OR contains(file.tags, "note-systems"))
+sort file.name
+```
+
+
+
 
 ---
-## Extracted from my `✶Note-Systems` note:
+## Extracted from my personal `✶Note-Systems` note:
 > [!NOTE+] This note has been extracted directly from my vault and contains many broken links.
+
 ---
 > "And if one has to write anyway, it is useful to take advantage of this activity in order to create in the system of notes a competent partner [in] communication." [^1]
 
@@ -69,7 +83,8 @@ up:: [[★Knowledge Work]]
 - [[Commonplace Book]] 
 - [[Luhmann's Zettelkasten]]
 
----
+> I also have some dataviews here at the end which I have removed since they don't work on the website anyway and simply show as code.
 
+---
 
 [^1]: [[Luhmann 1992 - Communicating with Slip Boxes]]
