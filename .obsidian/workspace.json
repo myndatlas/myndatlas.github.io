@@ -11,12 +11,8 @@
             "id": "5b07e284189c3980",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/ScratchBox.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/ScratchBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/ScratchBox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_notes/Public/ScratchBox.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "5b07e284189c3980",
   "lastOpenFiles": [
+    "_notes/Public/ScratchBox.md",
     "_notes/Public/§Atlas.md",
     "_notes/Public/Query ScratchNote.md",
     "_notes/Public/Dataview ScratchNote.md",
@@ -173,7 +166,6 @@
     "Raspberry Pi 400.md",
     "Planner.md",
     "Markdown Rendered.md",
-    "Hidden Note.md",
     "pages",
     "CNAME",
     "_layouts/Stylesheet.html",
