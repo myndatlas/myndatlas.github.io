@@ -1,10 +1,10 @@
 ---
-title : References
+title : §References
 feed : show
-date : 20-03-2023
+date : 24-03-2023
 ---
 up:: [[§Atlas]]
-# References
+# §References
 This is very out of date.
 
 ---
