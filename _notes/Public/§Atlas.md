@@ -6,8 +6,6 @@ date : 21-03-2023
 ---
 up:: [[⁋The MyndAtlas Project]]
 # §Atlas
-- [ ] To Do: Add a link/note for "The Dashboard"
-
 This is a part of my note-system that I think sets it apart somewhat from other things I've seen in this space: a scaffolding for building notes into something much larger and making developing a note-system easier.
 
 ---
