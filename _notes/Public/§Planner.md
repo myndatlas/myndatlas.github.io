@@ -10,7 +10,7 @@ The planner branches off from this note, currently via a list of years from whic
 
 This page also holds some lists from queries for ease of access to the current year, month, week, and day, as well as a view of all the daily notes for the current week. 
 
-There
+There needs to be a better way to do the dashboard.
 
 ---
 ## Planner Dashboard
