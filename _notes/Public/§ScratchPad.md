@@ -5,7 +5,6 @@ date : 24-03-2023
 ---
 up:: [[§ScratchBox]]
 # §ScratchPad
-- [ ] this needs disambiguation with [[The ScratchPad]]
 
 Like the [[Scratch Query Note]] and [[Scratch Dataview Note]], this note is permanently in the [[§ScratchBox]] though it's contents are transient. It is seldom completely empty, though the aim is to have it as empty as possible at all times and to move things from here to other notes or delete them when no longer needed.
 
