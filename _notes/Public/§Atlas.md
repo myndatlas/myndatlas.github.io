@@ -30,7 +30,7 @@ I continue to experiment with different ways to have notes branch of from here a
 	- The [[§ScratchPad]].
 	- The [[Scratch Dataview Note]].
 	- The [[Scratch Query Note]].
-	- The [[The Dashboard]]
+	- The [[The Dashboard Concept]]
 
 2. A List of the rest of the notes at the "section" level that branch off from the Atlas. They have a `§` in the note title and [[§Atlas]] note as a parent.  I have called these both atlasNotes and sectionNotes at various points. They could also be "super groups" or "Level 2" groups or something of that nature, as will soon be clearer.
 - [[§Areas of Interest]]
