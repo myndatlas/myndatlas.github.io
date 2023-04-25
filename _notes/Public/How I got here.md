@@ -1,9 +1,14 @@
 ---
 title : "How I got here"
 feed : show
-date : 24-03-2023
+date : 25-04-2023
 ---
 # How I got here
+<!--
+I first learned about the idea of note-systems through a friend in 2020 and began experimenting with my own at the start of 2021. 
+
+---
+-->
 
 A friend first mentioned the idea to me in 2020 and I was interested but not at a point where I could do much with that interest (for health reasons[^1]). He later sent me Sonke Ahrens book [How to take Smart Notes](https://takesmartnotes.com/)  which I was finally able to start looking at over the holidays at the end of 2020. Before I even finished the book I wanted to get to work building notes and see what emerged from my process as I learned more. As my note-system was beginning to take some shape, I found and spent a lot of time pouring through [Zettelkasten.de](https://zettelkasten.de/posts/overview/) and [Andy Matuschak's Notes](https://notes.andymatuschak.org/About_these_notes).
 
