@@ -14,7 +14,7 @@ note: noteCards without a group show up just fine, but group notes without any a
 ```dataviewjs
 for (let group of dv.pages('"noteBooks/myndatlas/website"')
   .where(p => p.noteType === "noteCard")
-  .groupBy(p => p.aoiGroup)) {
+  .groupBy(p => p.noteBook)) {
     dv.header(3, group.key);
     dv.table([],
         group.rows
