@@ -9,7 +9,7 @@ parent: [[⁋The MyndAtlas Project]]
 
 
 
-This website is part of a project to document and explain my thinking about using a note system ([[✶Note-Systems📒]]) and create an explanatory example, of sorts. 
+This website is part of a project to document and explain my thinking about using a note system and create an explanatory example, of sorts. 
 
 One of the nuances of my particular use-case[^1] is that I am only intermittently capable of this level of thought-work. Although using a note-system doesn't eliminate the pain points of dealing with my limitations, it does make it less painful, and make it easier to rediscover what I was doing before my symptoms so rudely interrupted me. 
 
