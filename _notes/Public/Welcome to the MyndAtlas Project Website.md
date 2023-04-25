@@ -7,11 +7,9 @@ parent: [[⁋The MyndAtlas Project]]
 ---
 # Welcome to the MyndAtlas Project Website
 
-
 This website is part of a project to document and explain my thinking about using a note-system. It is also a selection of notes extracted from my working note-system, so it should eventually show some of the principles in action in ways that I hope will be useful to others (not least: my future self). At the time of writing, it's still very much a work in progress, though, and I expect it will be for a wee while yet.
 
-## Aim
-- Leave a trail of breadcrumbs for myself so I can pick up where I've left off, written well enough that they could be followed by a stranger.
+The aim is to leave a trail of breadcrumbs for myself so I can pick up where I've left off, written well enough that they could be followed by a stranger.
 
 
 ---
