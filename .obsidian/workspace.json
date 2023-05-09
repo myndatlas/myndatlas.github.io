@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e3a620b2afb22350",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e630f70dbd30a3ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b07e284189c3980",
+  "active": "e3a620b2afb22350",
   "lastOpenFiles": [
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/§Dashboard.md",
