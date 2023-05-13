@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e3a620b2afb22350",
+            "id": "e37a1ca65f062640",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.2.7"
+                "currentVersion": "1.2.8"
               }
             }
           }
@@ -165,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3a620b2afb22350",
+  "active": "e37a1ca65f062640",
   "lastOpenFiles": [
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/§Dashboard.md",
