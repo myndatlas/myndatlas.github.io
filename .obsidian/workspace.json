@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "002e90ec28325cb1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b07e284189c3980",
+  "active": "002e90ec28325cb1",
   "lastOpenFiles": [
     "_notes/Public/Markdown Rendered.md",
     "_notes/Public/§Dashboard.md",
