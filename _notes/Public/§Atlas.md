@@ -34,7 +34,7 @@ I continue to experiment with different ways to have notes branch of from here a
 
 2. A List of the rest of the notes at the "section" level that branch off from the Atlas. They have a `§` in the note title and [[§Atlas]] note as a parent.  I have called these both atlasNotes and sectionNotes at various points. They could also be "super groups" or "Level 2" groups or something of that nature, as will soon be clearer.
 - [[§Areas of Interest]]
-- [[§Notebooks]]
+- [[§Projects]]
 - [[§References]]
 
 <!--
@@ -45,7 +45,7 @@ Something about [Nick Milo's "Maps Of Content"](https://notes.linkingyourthinkin
 ```dataview
 table
   up
-from "noteBooks/myndatlas/website"
+from "projects/myndatlas/website"
 where file.name != this.file.name
 sort up
 ```

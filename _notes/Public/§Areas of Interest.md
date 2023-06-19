@@ -12,9 +12,9 @@ This note is key to the overall MyndAtlas concept - it is a selection of the Atl
 ## groups of hubNotes grouped by groupNote
 note: noteCards without a group show up just fine, but group notes without any attached noteCards will not show up on this dataview 
 ```dataviewjs
-for (let group of dv.pages('"noteBooks/myndatlas/website"')
+for (let group of dv.pages('"projects/myndatlas/website"')
   .where(p => p.noteType === "noteCard")
-  .groupBy(p => p.noteBook)) {
+  .groupBy(p => p.projectHub)) {
     dv.header(3, group.key);
     dv.table([],
         group.rows
@@ -30,7 +30,7 @@ TABLE WITHOUT ID
  up,
  aoiGroup,
  aoiHub
-FROM "noteBooks/myndatlas/website"
+FROM "projects/myndatlas/website"
 WHERE noteType = "aoiHub"
 SORT aoiGroup, parent
 ```

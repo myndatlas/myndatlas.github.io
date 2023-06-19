@@ -20,7 +20,7 @@ sort file.name
 ### list of notes with knowledge-work as an aoi, excluding notes with ¶ 
 ```dataview
 list
-from "noteBooks/myndatlas/website"
+from "projects/myndatlas/website"
 where contains(aoiGroup, this.file.link) AND file.name != this.file.name and !contains(file.name, "¶")
 sort file.name
 ```
