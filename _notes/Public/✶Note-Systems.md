@@ -58,7 +58,7 @@ sort file.name
 - [[Establishing how to best work with a note-system to support our work is a complex problem requiring emergent solutions]]
 - [ ] A starting place? [[Every zettelkastener has a collection of notes about zettelkastening]]
 - [[A serious context of use isn't necessary for an effective and useful note-system (but it probably is necessary for a "zettelkasten style" note-system? maybe?)]]
-- [[It is a mistake to focus on Luhmann's physical implementation alone]], because [[Unconscious physical-limitation-carryover in modern zettelkasten culture]]
+- [[It is a mistake to focus on Luhmann's physical implementation alone]], because [[Unconscious physical-limitation-carryover]]
 - [[Addressing the need for a "sandbox" in digital implementations (to replicate the functionality of a physical desktop)]]
 
 #### Organising/Categorising Notes?
