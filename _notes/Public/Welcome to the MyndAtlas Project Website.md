@@ -13,6 +13,6 @@ Some of what's here is very specific to my use case, though it's also clear that
 
 A major aim of this site is to try to document the things that would help me get back to this point if for some reason I had to start over, written so they could be followed by someone else.
 
-Head over to the [[§Atlas]] to see a bit about how I organise and structure my note-system and enter the notes that way or have a look at [[State of the MyndAtlas Project]] for notes on the current status of the MyndAtlas Project. You can also check the <a href="{{'/notes' | relative_url}}">notes feed</a> to see what's recently been added or updated.
+Head over to the [[§Atlas]] to see a bit about how I organise and structure my note-system and enter the notes that way or have a look at [[Status of the MyndAtlas Project]] for notes on the current status of the MyndAtlas Project. You can also check the <a href="{{'/notes' | relative_url}}">notes feed</a> to see what's recently been added or updated.
 
 [^1]: <a href="../post/about-me"> About Me </a>
