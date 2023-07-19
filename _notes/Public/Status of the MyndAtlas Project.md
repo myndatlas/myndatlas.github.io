@@ -1,12 +1,15 @@
 ---
-title : State of the MyndAtlas Project
+title : Status of the MyndAtlas Project
 feed : show
 permalink : /status
-date : 21-03-2023
+date : 19-07-2023
 ---
 up:: [[⁋The MyndAtlas Project]], [[§Atlas]]
 #aoi/knowledge-work/note-systems
 # Status of the MyndAtlas Project
+
+
+
 After a failed experiment with an upgrade I discovered that I prefer where I've ended up with this website. That's the nature of it sometimes, I suppose.
 
 ---
