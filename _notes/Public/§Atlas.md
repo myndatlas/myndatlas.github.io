@@ -4,7 +4,7 @@ feed : show
 permalink : /atlas
 date : 21-03-2023
 ---
-up:: [[⁋The MyndAtlas Project]]
+up:: [[⁋The MyndAtlas Project Website]]
 # §Atlas
 This is a part of my note-system that I think sets it apart somewhat from other things I've seen in this space: a scaffolding for building notes into something much larger and making developing a note-system easier.
 

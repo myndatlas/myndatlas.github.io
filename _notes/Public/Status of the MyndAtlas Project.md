@@ -4,7 +4,7 @@ feed : show
 permalink : /status
 date : 19-07-2023
 ---
-up:: [[⁋The MyndAtlas Project]], [[§Atlas]]
+up:: [[⁋The MyndAtlas Project Website]], [[§Atlas]]
 #aoi/knowledge-work/note-systems
 # Status of the MyndAtlas Project
 
