@@ -11,13 +11,10 @@ This page contains a quick reference to all markdown properties. 90% (or so) of 
 ## Example Markdown
 
 * TOC
-{:toc}
 
-{:#heading}
 ### Headings 
 ---
 
-{:.regular-sans}
 ```
 # H1 
 ## H2 
@@ -34,11 +31,9 @@ This page contains a quick reference to all markdown properties. 90% (or so) of 
 ##### H5
 ###### H6
 
-{:#emphasis}
 ###  Emphasis 
 ---
 
-{:.regular-sans}
 ```
 Emphasis, aka italics, with *asterisks* or _underscores_. 
 
@@ -57,10 +52,8 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-{:#lists}
 ### Lists
 
-{:.regular-sans}
 ```
 1. First ordered list item 
 ...1. Ordered sublist 
@@ -97,11 +90,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-{:#links}
 ### Links
 ---
 
-{:.regular-sans}
 ```
 [I'm an inline-style link](https://www.google.com)
 
@@ -175,14 +166,11 @@ From URL
 
 ![](https://jekyllrb.com/img/logo-2x.png)
 
-
-{:#syntax}
 ### Code and Syntax Highlighting
 ---
 
 Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and Markdown Here -- support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. Markdown Here supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); 
 
-{:.regular-sans}
 ```
 Inline `code` has `back-ticks around` it.
 ```
@@ -225,7 +213,6 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
-{:#math}
 ### Math expressions
 ---
 
@@ -239,13 +226,11 @@ $$P(A|B) = \frac{P(B | A)\cdot P(A)}{P(B)}$$
 
 Please note that for a math block to be displayed correctly, it needs to be separated by an empty line, above and below. Besides, the pipe character | may conflict with markdown : it is recommended to use \vert instead.
 
-{:#tables}
 ### Tables
 ---
 
 Tables aren't part of the core Markdown spec, but they are part of GFM and Markdown Here supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.
 
-{:.regular-sans}
 ```
 Colons can be used to align columns.
 
@@ -282,11 +267,9 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-{:#blockquotes}
 ### Blockquotes
 ---
 
-{:.regular-sans}
 ```
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
