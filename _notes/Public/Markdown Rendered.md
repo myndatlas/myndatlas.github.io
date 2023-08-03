@@ -286,13 +286,11 @@ Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
-{:#inline}
 Inline HTML
 ---
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
-{:.regular-sans}
 ```
 <dl>
   <dt>Definition list</dt>
@@ -313,12 +311,9 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-{:#hr}
 ### Horizontal Rule
 ---
 
-
-{:.regular-sans}
 ```
 Three or more...
 
@@ -349,7 +344,6 @@ ___
 
 Underscores
 
-{:#br}
 ### Line Breaks
 ---
 
@@ -357,7 +351,6 @@ My basic recommendation for learning how line breaks work is to experiment and d
 
 Here are some things to try out:
 
-{:.regular-sans}
 ```
 Here's a line for us to start with.
 
