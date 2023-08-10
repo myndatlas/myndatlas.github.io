@@ -6,7 +6,7 @@ date : 24-03-2023
 up:: [[§Areas of Interest]]
 # ★Knowledge Work
 - [ ] sort out what I want to do with this
-- [ ] cf [[✶Thinking and Writing]]
+- [ ] cf [[✶✶Thinking and Writing]]
 
 ---
 ## list of notes with this note as parent and not aoiHubs
