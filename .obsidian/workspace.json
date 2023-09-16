@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "937ba802ce230a19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83d8d04d83e5d8fe",
+  "active": "937ba802ce230a19",
   "lastOpenFiles": [
     "_notes/Public/Status of the MyndAtlas Project.md",
     "_posts/2023-03-21-about-me.md",
