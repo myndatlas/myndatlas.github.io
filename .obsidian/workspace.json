@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf25b8a281c886b9",
+        "id": "2a8d2867bb991262",
         "type": "tabs",
         "children": [
           {
-            "id": "83d8d04d83e5d8fe",
+            "id": "1bc6208f387418ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83d8d04d83e5d8fe",
+  "active": "1bc6208f387418ef",
   "lastOpenFiles": [
     "_notes/Public/Status of the MyndAtlas Project.md",
     "_posts/2023-03-21-about-me.md",
