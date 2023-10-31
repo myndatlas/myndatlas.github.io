@@ -14,29 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "937ba802ce230a19",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "127dcf30c98790cc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "127dcf30c98790cc",
+  "active": "83d8d04d83e5d8fe",
   "lastOpenFiles": [
     "_notes/Public/Status of the MyndAtlas Project.md",
     "_posts/2023-03-21-about-me.md",
