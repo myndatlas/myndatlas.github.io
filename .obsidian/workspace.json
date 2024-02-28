@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md",
+                "file": "_notes/Public/Dataview ScratchNote.md",
                 "mode": "preview",
                 "source": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md",
+                "file": "_notes/Public/Dataview ScratchNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md",
+                "file": "_notes/Public/Dataview ScratchNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md"
+                "file": "_notes/Public/Dataview ScratchNote.md"
               }
             }
           },
@@ -260,8 +260,10 @@
   },
   "active": "9cf405eb97109417",
   "lastOpenFiles": [
-    "_notes/Public/Tools.md",
+    "_notes/Public/★Knowledge Work.md",
+    "_notes/Public/✶Note-Systems.md",
     "_posts/2024-02-28-about-me.md",
+    "_notes/Public/Tools.md",
     "_notes/Public/Status of the MyndAtlas Project.md",
     "_notes/Public/§Atlas.md",
     "_notes/Public/§Dashboard.md",
@@ -269,10 +271,8 @@
     "_notes/Public/§ScratchPad.md",
     "_notes/Public/§Planner.md",
     "_notes/Public/§References.md",
-    "_notes/Public/✶Note-Systems.md",
     "_notes/Public/State of the MyndAtlas Project.md",
     "_notes/Public/Welcome to the MyndAtlas Project Website.md",
-    "_notes/Public/★Knowledge Work.md",
     "_notes/Public/How I got here.md",
     "_notes/Public/Credits.md",
     "_notes/Public/§Areas of Interest.md",
