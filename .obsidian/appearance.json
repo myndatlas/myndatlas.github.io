@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#07eef2",
+  "cssTheme": "Minimal",
+  "baseFontSize": 15,
+  "theme": "moonstone"
 }
