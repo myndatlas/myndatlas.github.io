@@ -1,5 +1,5 @@
 {
-  "commitMessage": "314 vault backup: {{date}}",
+  "commitMessage": "luna valut update -m: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 0,
@@ -52,5 +52,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "314 vault backup: {{date}}"
+  "autoCommitMessage": "luna vault update: {{date}}"
 }
