@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project Website.md",
+                "file": "_posts/2024-02-28-about-me.md",
                 "mode": "preview",
                 "source": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project Website.md",
+                "file": "_posts/2024-02-28-about-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project Website.md",
+                "file": "_posts/2024-02-28-about-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project Website.md"
+                "file": "_posts/2024-02-28-about-me.md"
               }
             }
           },
