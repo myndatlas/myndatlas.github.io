@@ -5,12 +5,14 @@ permalink : /status
 date : 28-02-2024
 ---
 up:: [[⁋The MyndAtlas Project Website]], [[§Atlas]]
-#aoi/knowledge-work/note-systems
+
 # Status of the MyndAtlas Project
 
-Currently: It's a mess.
+## February 2024
 
- A fresh overhaul attempt is being considered and noodled on. The pace it takes will surely be sporadic.
+I'm chipping away at an update to go with the new [instagram account](https://www.instagram.com/myndatlas) and the most recent evolution of ideas.
+
+The updates are sure to be sporadic.
 
 <!-- Previous text: 
 I've made a couple of attempts at moving this in a useful direction and I didn't get far enough with any of them to recommend spending much time here at this point. 
