@@ -7,6 +7,8 @@ parent: [[⁋The MyndAtlas Project]]
 ---
 # Welcome to the MyndAtlas Project Website
 
+Apologies for the mess. That is part of the idea of Working 
+
 At the moment, this is a collection of pages that don't yet make a cohesive whole. It's a part of a work in progress to document what I'm doing and thinking as I build my note-system and develop a way of working with it that meets my particular needs[^1]. 
 
 Some of what's here is very specific to my use case, though it's also clear that there are a number of similarities with what I'm doing here to what others are doing with similar note-systems and related personal knowledge management (PKM) work/ideas.
