@@ -2,7 +2,7 @@
 title : Status of the MyndAtlas Project
 feed : show
 permalink : /status
-date : 19-07-2023
+date : 28-02-2024
 ---
 up:: [[⁋The MyndAtlas Project Website]], [[§Atlas]]
 #aoi/knowledge-work/note-systems
@@ -10,11 +10,14 @@ up:: [[⁋The MyndAtlas Project Website]], [[§Atlas]]
 
 Currently: It's a mess.
 
+ A fresh overhaul attempt is being considered and noodled on. The pace it takes will surely be sporadic.
+
+<!-- Previous text: 
 I've made a couple of attempts at moving this in a useful direction and I didn't get far enough with any of them to recommend spending much time here at this point. 
 
 The experiment continues behind the scenes. I'm hoping that more of it will be reflected here before too long. I make no promises.
 
-<!-- Previous text: 
+
 After a failed experiment with an upgrade I discovered that I prefer where I've ended up with this website. That's the nature of it sometimes, I suppose.
 
 
