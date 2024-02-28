@@ -11,7 +11,6 @@ longform:
     - How I got here
     - Markdown Rendered
     - Query ScratchNote
-    - Raspberry Pi 400
     - Status of the MyndAtlas Project
     - Tools
     - §Atlas
