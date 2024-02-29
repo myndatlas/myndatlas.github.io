@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Dataview ScratchNote.md",
+                "file": "_posts/2024-02-28-about-me.md",
                 "mode": "preview",
                 "source": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Dataview ScratchNote.md",
+                "file": "_posts/2024-02-28-about-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Dataview ScratchNote.md",
+                "file": "_posts/2024-02-28-about-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Dataview ScratchNote.md"
+                "file": "_posts/2024-02-28-about-me.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "9cf405eb97109417",
   "lastOpenFiles": [
+    "_notes/Public/Dataview ScratchNote.md",
     "_notes/Public/★Knowledge Work.md",
     "_notes/Public/✶Note-Systems.md",
     "_posts/2024-02-28-about-me.md",
@@ -277,7 +278,6 @@
     "_notes/Public/Credits.md",
     "_notes/Public/§Areas of Interest.md",
     "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Dataview ScratchNote.md",
     "pages/notes.md",
     "pages/index.md",
     "pages/404.md",
