@@ -118,9 +118,19 @@
               "type": "obsidian-projects",
               "state": {}
             }
+          },
+          {
+            "id": "e16a3858b970279d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Public/§Areas of Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_notes/Public/§Areas of Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/Public/§Areas of Interest.md"
+              }
             }
           },
           {
@@ -263,7 +277,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b85daed78afa798e",
+  "active": "e16a3858b970279d",
   "lastOpenFiles": [
     "_posts/2024-02-28-about-me.md",
     "_notes/Public/Dataview ScratchNote.md",
