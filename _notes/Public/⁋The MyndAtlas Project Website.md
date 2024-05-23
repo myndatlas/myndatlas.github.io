@@ -5,7 +5,6 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Welcome to the MyndAtlas Project
     - §Areas of Interest
     - Dataview ScratchNote
     - How I got here

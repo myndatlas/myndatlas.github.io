@@ -35,9 +35,3 @@ WHERE noteType = "aoiHub"
 SORT aoiGroup, parent
 ```
 
-## notes with this note as parent
-```dataview
-list
-from ""
-where parent = this.file.link
-```
