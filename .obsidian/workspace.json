@@ -125,8 +125,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md",
-                "mode": "source",
+                "file": "_posts/2020-03-01-features.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md",
+                "file": "_posts/2020-03-01-features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md",
+                "file": "_posts/2020-03-01-features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-02-28-about-me.md"
+                "file": "_posts/2020-03-01-features.md"
               }
             }
           },
@@ -281,8 +281,9 @@
   },
   "active": "44f9c8be4a7fafce",
   "lastOpenFiles": [
-    "Untitled.md",
+    "_posts/2020-03-01-how-to.md",
     "_posts/2024-02-28-about-me.md",
+    "Untitled.md",
     "_notes/Public/Status of the MyndAtlas Project.md",
     "_notes/Public/Welcome to the MyndAtlas Project.md",
     "_notes/Public/§Atlas.md",
@@ -306,7 +307,6 @@
     "_notes/Public/Markdown Rendered.md",
     "pages/notes.md",
     "pages/index.md",
-    "pages/404.md",
     "assets/img/6-how-to.png",
     "assets/img/4-how-to.png",
     "assets/img/5-how-to.png",
