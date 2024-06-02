@@ -123,9 +123,11 @@
             "id": "e16a3858b970279d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "_notes/Public/Tools.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -204,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/§Areas of Interest.md",
+                "file": "_notes/Public/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/§Areas of Interest.md",
+                "file": "_notes/Public/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/§Areas of Interest.md"
+                "file": "_notes/Public/Tools.md"
               }
             }
           },
@@ -280,13 +282,13 @@
   "active": "e16a3858b970279d",
   "lastOpenFiles": [
     "_notes/Public/testing 2.md",
+    "_notes/Public/Tools.md",
     "_notes/Public/testing.md",
     "_notes/Public/Digital Gardens and Learning in Public.md",
     "_posts/2024-02-28-about-me.md",
     "_notes/Public/Dataview ScratchNote.md",
     "_notes/Public/★Knowledge Work.md",
     "_notes/Public/✶Note-Systems.md",
-    "_notes/Public/Tools.md",
     "_notes/Public/Status of the MyndAtlas Project.md",
     "_notes/Public/§Atlas.md",
     "_notes/Public/§Dashboard.md",
