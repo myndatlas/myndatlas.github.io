@@ -113,14 +113,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project.md",
+                "file": "_notes/Public/Status of the MyndAtlas Project.md",
                 "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "44f9c8be4a7fafce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Welcome to the MyndAtlas Project.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -267,8 +279,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e16a3858b970279d",
+  "active": "44f9c8be4a7fafce",
   "lastOpenFiles": [
+    "_notes/Public/Status of the MyndAtlas Project.md",
+    "Untitled.md",
+    "_notes/Public/Welcome to the MyndAtlas Project.md",
     "_notes/Public/§Atlas.md",
     "_notes/Public/Tools.md",
     "_notes/Public/testing 2.md",
@@ -278,7 +293,6 @@
     "_notes/Public/Dataview ScratchNote.md",
     "_notes/Public/★Knowledge Work.md",
     "_notes/Public/✶Note-Systems.md",
-    "_notes/Public/Status of the MyndAtlas Project.md",
     "_notes/Public/§Dashboard.md",
     "_notes/Public/§ScratchBox.md",
     "_notes/Public/§ScratchPad.md",
@@ -293,8 +307,6 @@
     "pages/notes.md",
     "pages/index.md",
     "pages/404.md",
-    "pages/lists.md",
-    "pages/posts.md",
     "assets/img/6-how-to.png",
     "assets/img/4-how-to.png",
     "assets/img/5-how-to.png",
