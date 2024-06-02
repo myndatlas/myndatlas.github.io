@@ -113,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/§Atlas.md",
+                "file": "_notes/Public/Welcome to the MyndAtlas Project.md",
                 "mode": "preview",
                 "source": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/§Atlas.md",
+                "file": "_notes/Public/Welcome to the MyndAtlas Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/§Atlas.md",
+                "file": "_notes/Public/Welcome to the MyndAtlas Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/§Atlas.md"
+                "file": "_notes/Public/Welcome to the MyndAtlas Project.md"
               }
             }
           },
@@ -269,6 +269,7 @@
   },
   "active": "e16a3858b970279d",
   "lastOpenFiles": [
+    "_notes/Public/§Atlas.md",
     "_notes/Public/Tools.md",
     "_notes/Public/testing 2.md",
     "_notes/Public/testing.md",
@@ -278,7 +279,6 @@
     "_notes/Public/★Knowledge Work.md",
     "_notes/Public/✶Note-Systems.md",
     "_notes/Public/Status of the MyndAtlas Project.md",
-    "_notes/Public/§Atlas.md",
     "_notes/Public/§Dashboard.md",
     "_notes/Public/§ScratchBox.md",
     "_notes/Public/§ScratchPad.md",
