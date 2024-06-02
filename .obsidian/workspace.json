@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Tools.md",
+                "file": "_notes/Public/§Atlas.md",
                 "mode": "preview",
                 "source": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Tools.md",
+                "file": "_notes/Public/§Atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Tools.md",
+                "file": "_notes/Public/§Atlas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Tools.md"
+                "file": "_notes/Public/§Atlas.md"
               }
             }
           },
@@ -281,8 +281,8 @@
   },
   "active": "e16a3858b970279d",
   "lastOpenFiles": [
-    "_notes/Public/testing 2.md",
     "_notes/Public/Tools.md",
+    "_notes/Public/testing 2.md",
     "_notes/Public/testing.md",
     "_notes/Public/Digital Gardens and Learning in Public.md",
     "_posts/2024-02-28-about-me.md",
