@@ -5,21 +5,11 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - §Areas of Interest
-    - Dataview ScratchNote
     - How I got here
     - Markdown Rendered
-    - Query ScratchNote
     - Status of the MyndAtlas Project
     - Tools
     - §Atlas
-    - §Dashboard
-    - §Planner
-    - §References
-    - §ScratchBox
-    - §ScratchPad
-    - ★Knowledge Work
-    - ✶Note-Systems
     - Credits
   ignoredFiles: []
 ---
