@@ -130,9 +130,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "81cdd68aac0968fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -279,7 +289,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "44f9c8be4a7fafce",
+  "active": "81cdd68aac0968fc",
   "lastOpenFiles": [
     "_posts/2020-03-01-how-to.md",
     "_posts/2024-02-28-about-me.md",
